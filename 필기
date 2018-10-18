@@ -1,0 +1,26 @@
+<meta charset="utf-8">
+
+exception 
+ - &nbsp  no-break space 줄 나뉨 방지 "묶음빈칸"
+
+code
+
+
+
+sorce -
+
+
+
+tag - 웹문서상 문서의 특징 형태를 만들때 사용하는 약속
+<a> ~~ </a> 형태
+
+<!-- ~~ --> - 주석태그
+
+<h> - <h1> 부터 <h6> 까지있으며 숫자의 크기가 클수록 글자크기가 작아진다. 줄 구분이 된다.
+         *<h1 align="left/center/right"> 형태로 정렬 가능
+              ex) <h1 align="center"> ~~ </h1> =가운데 정렬
+
+<p> - 문단을 의미, 앞 뒤로 2줄씩 띄어 문단형성
+        *<p align="left/center/right"> 형태로 정렬 가능
+
+<br>- enter의 기능 <u>단일 태그로</u> <br/>형태로 사용가능
